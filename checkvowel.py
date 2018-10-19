@@ -14,5 +14,5 @@ if ( (ch >= 'a' and ch <= 'z') or
 
 
 else:
-        print("Invalid")
+        print("invalid")
 
